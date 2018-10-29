@@ -7,7 +7,7 @@ animals escape sudden danger.
 
 ## Tasks
 
-1. Fork this repo. 
+1. Fork this repo.
 2. Clone your fork.
 3. `cd` into the local folder for the project.
 4. Open the index.html in the browser to navigate to different animal pages to
